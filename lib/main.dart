@@ -5,7 +5,8 @@ import 'package:hsdk_assingment/Cubit/manage_cubit.dart';
 import 'package:hsdk_assingment/Screens/home_page.dart';
 
 import 'Screens/SingIn_Screen.dart';
-
+//GOT TIGHT SCHEDULE BECAUSE OF COLLEGE EXAMS
+//TEST CASES AND FIREBASE NOTIFICATIONS ARE LEFT ,WILL BE DONE SOON IN FEW DAYS HOPE YOU UNDERSTAND ...
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
