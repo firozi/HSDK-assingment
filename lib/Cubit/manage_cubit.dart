@@ -100,3 +100,4 @@ class ManageCubit extends Cubit<ManageState> {
 
 }
 }
+//FIREBASE NOTIFICATIONS ARE LEFT ,WILL BE DONE SOON IN FEW DAYS HOPE YOU UNDERSTAND ...
